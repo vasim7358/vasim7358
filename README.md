@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Vasim Mirza and I'm a 2nd year cse student.<br><br> 📚 I'm currently learning Fullstack/Software development<br> ⚡ In my free time I am doing frontend projects which is mention in Github repos</p>
+<p align="left">I'm Vasim Mirza and I'm a final year cse student.<br><br> 📚 I'm currently learning Fullstack/Software development<br> ⚡ In my free time I am doing frontend projects which is mention in Github repos</p>
 
 ###
 
